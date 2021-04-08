@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d80043db-6d40-4618-8fba-150175afe51f" name="Default Changelist" comment="" />
+    <list default="true" id="d80043db-6d40-4618-8fba-150175afe51f" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/code-template-master/src/main/resources/template/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/code-template-master/src/main/resources/template/controller/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template-master/src/main/resources/template/dao/Mapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/code-template-master/src/main/resources/template/dao/Mapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template-master/src/main/resources/template/pojo/Pojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/code-template-master/src/main/resources/template/pojo/Pojo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template-master/src/main/resources/template/service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/code-template-master/src/main/resources/template/service/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code-template-master/src/main/resources/template/service/impl/ServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/code-template-master/src/main/resources/template/service/impl/ServiceImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +45,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -46,7 +73,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="public" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mybatisDemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -341,11 +368,35 @@
       <workItem from="1610970400391" duration="401000" />
       <workItem from="1614657832967" duration="4452000" />
       <workItem from="1615275075465" duration="5765000" />
+      <workItem from="1617850099553" duration="439000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1617850529149</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617850529150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="91" key="#Inspections" timestamp="1609060680034">

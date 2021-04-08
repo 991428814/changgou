@@ -1,7 +1,10 @@
-package ${package_service};
-import ${package_pojo}.${Table};
+package $ import $;
 import com.github.pagehelper.PageInfo;
+
 import java.util.List;
+
+{package_service};
+        {package_pojo}.${Table};
 /****
  * @Author:shenkunlin
  * @Description:${Table}业务层接口
