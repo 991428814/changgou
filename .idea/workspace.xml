@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d80043db-6d40-4618-8fba-150175afe51f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MyRepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iNDhMLTy2ifEzRBOicxW15DtQE" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mybatisDemo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.20996094" />
+    <property name="project.structure.side.proportion" value="0.28712872" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\cg\changgou\changgou-parent\changgou-eureka" />
+      <recent name="D:\project\cg\changgou\changgou-parent\changgou-service_api\changgou-service-user-api\src\main\java\com\changgou\user\feign" />
+      <recent name="D:\project\cg\changgou\changgou-parent\changgou-web\changgou-web-item\src\main\resources" />
+      <recent name="D:\project\cg\changgou\changgou-parent\changgou-service_api" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\cg\changgou\eureka-cluster" />
+      <recent name="D:\project\cg\changgou\fescar-parent\fescar-api\src\main\resources" />
+      <recent name="D:\project\cg\changgou\code-template-master\src\main\java" />
+      <recent name="D:\project\cg\changgou\changgou-parent\changgou-common\src\main\java\entity" />
+      <recent name="D:\project\cg\changgou\changgou-parent\changgou-service\changgou-service-seckill\src\main\java\com\changgou\seckill" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.changgou.seckill.mq" />
+      <recent name="com.changgou.order.config" />
+      <recent name="entity" />
+      <recent name="com.changgou.order.interceptor" />
+      <recent name="com.changgou.goods.interceptor" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.changgou.pay.service.impl" />
+      <recent name="com.changgou.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.OAuthApplication">
+    <configuration name="Eureka1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Eureka1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server1 (1)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Eureka2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server1 (2)" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.Eureka3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-gateway-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.GatewayWebApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-service-goods" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.GoodsApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="changgou-user-oauth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.changgou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.OAuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-service-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.OrderApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeckillApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-service-seckill" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.SeckillApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="fescar-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeixinPayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="changgou-service-pay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changgou.WeixinPayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.WeixinPayApplication" />
+      <item itemvalue="Spring Boot.SeckillApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.GoodsApplication" />
+      <item itemvalue="Spring Boot.GatewayWebApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.Eureka1Application" />
+      <item itemvalue="Spring Boot.Eureka3Application" />
+      <item itemvalue="Spring Boot.Eureka2Application" />
+      <item itemvalue="Spring Boot.OAuthApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Eureka3Application" />
+        <item itemvalue="Spring Boot.OAuthApplication" />
+        <item itemvalue="Spring Boot.Eureka2Application" />
+        <item itemvalue="Spring Boot.Eureka1Application" />
+        <item itemvalue="Spring Boot.UserApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d80043db-6d40-4618-8fba-150175afe51f" name="Default Changelist" comment="" />
+      <created>1601739273645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601739273645</updated>
+      <workItem from="1601739276452" duration="29000" />
+      <workItem from="1601739438370" duration="5789000" />
+      <workItem from="1601786145347" duration="16297000" />
+      <workItem from="1601819094288" duration="58000" />
+      <workItem from="1601819199673" duration="5243000" />
+      <workItem from="1601964907055" duration="907000" />
+      <workItem from="1602060417162" duration="4373000" />
+      <workItem from="1602137078152" duration="8697000" />
+      <workItem from="1602161202576" duration="5707000" />
+      <workItem from="1602208715509" duration="6674000" />
+      <workItem from="1602423726835" duration="5558000" />
+      <workItem from="1602595621958" duration="2314000" />
+      <workItem from="1602830781766" duration="1434000" />
+      <workItem from="1602997125303" duration="5091000" />
+      <workItem from="1603007776418" duration="3326000" />
+      <workItem from="1603154989250" duration="8562000" />
+      <workItem from="1603803881783" duration="3030000" />
+      <workItem from="1603936041231" duration="5481000" />
+      <workItem from="1603960657921" duration="1799000" />
+      <workItem from="1604039349749" duration="10311000" />
+      <workItem from="1604052238572" duration="3050000" />
+      <workItem from="1604111808350" duration="5999000" />
+      <workItem from="1604121158721" duration="22067000" />
+      <workItem from="1604195784295" duration="11774000" />
+      <workItem from="1604212352691" duration="2739000" />
+      <workItem from="1604215479601" duration="6339000" />
+      <workItem from="1604283083052" duration="3719000" />
+      <workItem from="1604319901970" duration="4118000" />
+      <workItem from="1604369612417" duration="14000" />
+      <workItem from="1604389267734" duration="12903000" />
+      <workItem from="1604457223930" duration="185000" />
+      <workItem from="1604488793514" duration="8577000" />
+      <workItem from="1604503565546" duration="773000" />
+      <workItem from="1604563145646" duration="9288000" />
+      <workItem from="1604574747069" duration="6474000" />
+      <workItem from="1604644427741" duration="1958000" />
+      <workItem from="1604646453214" duration="3697000" />
+      <workItem from="1604650266053" duration="1530000" />
+      <workItem from="1604652073503" duration="2476000" />
+      <workItem from="1604655882312" duration="30297000" />
+      <workItem from="1604819169467" duration="1372000" />
+      <workItem from="1604820607222" duration="1493000" />
+      <workItem from="1604822217044" duration="98000" />
+      <workItem from="1604822374219" duration="5030000" />
+      <workItem from="1604887496378" duration="187000" />
+      <workItem from="1604973517440" duration="8213000" />
+      <workItem from="1605060035850" duration="12930000" />
+      <workItem from="1605108289417" duration="3784000" />
+      <workItem from="1605581000375" duration="1325000" />
+      <workItem from="1605582456099" duration="189000" />
+      <workItem from="1605582671913" duration="58000" />
+      <workItem from="1605582753577" duration="505000" />
+      <workItem from="1605583291645" duration="387000" />
+      <workItem from="1605583708520" duration="331000" />
+      <workItem from="1605600895596" duration="855000" />
+      <workItem from="1605601800849" duration="6958000" />
+      <workItem from="1605615814120" duration="294000" />
+      <workItem from="1605616137065" duration="418000" />
+      <workItem from="1605616610040" duration="7050000" />
+      <workItem from="1605699724422" duration="59000" />
+      <workItem from="1605699798458" duration="1215000" />
+      <workItem from="1605701030793" duration="13160000" />
+      <workItem from="1605780521974" duration="16566000" />
+      <workItem from="1605933703414" duration="98000" />
+      <workItem from="1605933881517" duration="57000" />
+      <workItem from="1605933955596" duration="46000" />
+      <workItem from="1605934054921" duration="132000" />
+      <workItem from="1605934319239" duration="19000" />
+      <workItem from="1605934365865" duration="29000" />
+      <workItem from="1605934418538" duration="21000" />
+      <workItem from="1605934480529" duration="42000" />
+      <workItem from="1605934786241" duration="20000" />
+      <workItem from="1605934833635" duration="9931000" />
+      <workItem from="1606133630732" duration="8954000" />
+      <workItem from="1606301491119" duration="5447000" />
+      <workItem from="1606722957224" duration="64000" />
+      <workItem from="1606723099391" duration="24000" />
+      <workItem from="1606723154043" duration="26000" />
+      <workItem from="1606723393280" duration="74000" />
+      <workItem from="1606723500616" duration="18000" />
+      <workItem from="1606723704059" duration="22000" />
+      <workItem from="1606723743488" duration="20000" />
+      <workItem from="1606723791737" duration="16000" />
+      <workItem from="1606724098643" duration="18000" />
+      <workItem from="1606724142610" duration="17156000" />
+      <workItem from="1609037959522" duration="19067000" />
+      <workItem from="1609152686075" duration="8179000" />
+      <workItem from="1609238974166" duration="7216000" />
+      <workItem from="1609765612797" duration="16000" />
+      <workItem from="1609828577395" duration="15886000" />
+      <workItem from="1609989840278" duration="18782000" />
+      <workItem from="1610080469833" duration="6807000" />
+      <workItem from="1610269568497" duration="202000" />
+      <workItem from="1610428684804" duration="3648000" />
+      <workItem from="1610520021276" duration="3359000" />
+      <workItem from="1610523455894" duration="1397000" />
+      <workItem from="1610525082309" duration="4995000" />
+      <workItem from="1610531741429" duration="150000" />
+      <workItem from="1610531893691" duration="118000" />
+      <workItem from="1610532069855" duration="1505000" />
+      <workItem from="1610533639969" duration="727000" />
+      <workItem from="1610534510374" duration="551000" />
+      <workItem from="1610535401901" duration="20940000" />
+      <workItem from="1610800313544" duration="3931000" />
+      <workItem from="1610865568705" duration="3905000" />
+      <workItem from="1610970238032" duration="16000" />
+      <workItem from="1610970400391" duration="401000" />
+      <workItem from="1614657832967" duration="4452000" />
+      <workItem from="1615275075465" duration="5765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1609060680034">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1609060680034" />
+    <state x="249" y="0" key="#Project_Structure" timestamp="1610080717705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1610080717705" />
+    <state x="223" y="67" width="1164" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610531781260">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1164" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1610531781260" />
+    <state x="574" y="118" width="718" height="588" key="#com.intellij.ide.util.MemberChooser" timestamp="1609160715471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" width="718" height="588" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1609160715471" />
+    <state x="535" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1609846553574">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="535" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1609846553574" />
+    <state x="456" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606737113905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="456" y="335" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1606737113905" />
+    <state x="991" y="164" key="FileChooserDialogImpl" timestamp="1615337206729">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="991" y="164" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1615337206729" />
+    <state x="579" y="313" key="Github.CreateGistDialog" timestamp="1610582951039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="313" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1610582951039" />
+    <state width="1137" height="239" key="GridCell.Tab.0.bottom" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state width="1137" height="239" key="GridCell.Tab.0.center" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state width="1137" height="239" key="GridCell.Tab.0.left" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state width="1137" height="239" key="GridCell.Tab.0.right" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state width="1137" height="239" key="GridCell.Tab.1.bottom" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state width="1137" height="239" key="GridCell.Tab.1.center" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state width="1137" height="239" key="GridCell.Tab.1.left" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state width="1137" height="239" key="GridCell.Tab.1.right" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state width="1137" height="239" key="GridCell.Tab.2.bottom" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state width="1137" height="239" key="GridCell.Tab.2.center" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state width="1137" height="239" key="GridCell.Tab.2.left" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state width="1137" height="239" key="GridCell.Tab.2.right" timestamp="1610876007196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1137" height="239" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1610876007196" />
+    <state x="429" y="116" key="NewModule_or_Project.wizard" timestamp="1610532329571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="429" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1610532329571" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1610532331452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610532331452" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1609852088350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1609852088350" />
+    <state x="381" y="93" width="897" height="594" key="find.popup" timestamp="1610588214563">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="381" y="93" width="897" height="594" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1610588214563" />
+    <state x="302" y="0" key="new project wizard" timestamp="1614827174764">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="302" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1614827174764" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1610539901147">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1610539901147" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1615278696024">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1615278696024" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/controller/SpuController.java</url>
+          <line>155</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-content/src/main/java/com/changgou/content/controller/ContentCategoryController.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-content/src/main/java/com/changgou/content/controller/ContentCategoryController.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-rabbitmq/src/main/java/com/changgou/rabbitmq/listener/item/HtmlGeneratListener.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-canal/src/main/java/com/changgou/canal/mq/send/TopicMessageSender.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/interceptor/TokenRequestInterceptor.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/interceptor/TokenRequestInterceptor.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/interceptor/TokenRequestInterceptor.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/fescar-parent/fescar-parent/fescar-business/src/main/java/com/itheima/service/impl/BusinessServiceImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/changgou$OrderApplication__1_.ic" NAME="OrderApplication (1) Coverage Results" MODIFIED="1610525184270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.itheima.*</FILTER>
+    </SUITE>
+  </component>
+</project>

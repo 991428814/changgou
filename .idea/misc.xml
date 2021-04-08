@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/code-template-master/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-parent/changgou-service/changgou-service-canal/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-parent/changgou-user-oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar1-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar1-parent/fescar1-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar-parent/fescar-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar-parent/fescar-api/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar-parent/fescar-business/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar-parent/fescar-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar-parent/fescar-item/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar-parent/fescar-order/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar-parent/fescar-user/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-cluster/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-cluster/eureka-server2/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-cluster/eureka-server3/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/changgou-parent/changgou-service-goods-api/pom.xml" />
+        <option value="$PROJECT_DIR$/changgou-parent/changgou-service/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar-parent/fescar-parent/fescar-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar-parent/fescar-transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/fescar1-parent/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

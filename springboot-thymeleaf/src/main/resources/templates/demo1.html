@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!--
+    引入thymeleaf标签
+-->
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Thymeleatf模板引擎案例</title>
+</head>
+<body>
+    hello!itheima
+    <div th:text="${message}"></div>
+    <div>
+        th:action 指定表单的提交路径
+        <form id="login-form" th:action="@{/test/hello}">
+            <button>提交</button>
+        </form>
+    </div>
+
+    <div>
+        th:each 循环标签
+        <table>
+            <tr>
+                <td>下标</td>
+                <td>ID</td>
+                <td>NAME</td>
+                <td>ADDRESS</td>
+            </tr>
+            <tr th:each="user,userStat:${users}">
+                <td th:text="${userStat.index}"></td>
+                <td th:text="${user.id}"></td>
+                <td th:text="${user.name}"></td>
+                <td th:text="${user.address}"></td>
+            </tr>
+        </table>
+    </div>
+    <h2>方式1</h2>
+        获取Key=No的值:<span th:text="${dataMap.No}"></span></br>
+        获取Key=address:<span th:text="${dataMap.address}"></span></br>
+    </div>
+
+    </div>
+    <h2>方式2</h2>
+        <div th:each="map:${dataMap}">
+            <span th:text="${map.key}"></span>:<span th:text="${map.value}"></span>
+        </div>
+    </div>
+
+    <div>
+        <span th:text="${#dates.format(now,'yyyy-MM-dd hh:ss:mm')}"></span>
+    </div>
+
+    <div>
+        <span th:if="${(age>=18)}">成年人</span>
+        <span th:unless="${(age<18)}">成年人</span>
+    </div>
+
+    下面是引入的一个公共模块
+    <div>
+        <div id="A" th:include="footer::copy">
+
+        </div>
+    </div>
+</body>
+</html>
