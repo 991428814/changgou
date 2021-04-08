@@ -9,8 +9,14 @@ import java.util.List;
 {package_controller};
         {package_pojo}.${Table};
         {package_service}.${Table}Service;
-<#if swagger==true>
-</#if>
+
+
+<
+#if swagger==true>
+
+
+<
+/#if>
 
 /****
  * @Author:shenkunlin
